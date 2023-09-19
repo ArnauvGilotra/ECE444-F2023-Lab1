@@ -8,3 +8,7 @@ Ex 2.1 SS:
 Ex 2.2 SS:
 <img width="546" alt="image" src="https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/313649cb-1f07-4c80-96fe-715cd8571df1">
 
+Ex 3 SS:
+![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/667ef0d3-f87d-42aa-90e3-553e6d05cb97)
+
+
