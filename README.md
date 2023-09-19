@@ -11,4 +11,15 @@ Ex 2.2 SS:
 Ex 3 SS:
 ![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/667ef0d3-f87d-42aa-90e3-553e6d05cb97)
 
+Ex 4 SS1:
+![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/49d96d3f-36f9-456b-907c-542b3ba3ff26)
+
+Ex 4 SS2:
+![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/53352d61-bf6d-4e41-be48-18cfb3a71454)
+
+Ex 4 SS3:
+![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/073e3b96-98d2-478e-87e2-55c969efbc64)
+
+Ex 4 SS4: 
+![image](https://github.com/ArnauvGilotra/ECE444-F2023-Lab1/assets/61934622/1b00f75e-c808-4204-a8ee-180ef617b5f7)
 
